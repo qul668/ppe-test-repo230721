@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "repotest230721/index.md",
+      "redirect_url": "/archive/archive-ming-test-more/index",
+      "redirect_document_id": false
+    }
+  ]
+}
